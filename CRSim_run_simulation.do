@@ -1,3 +1,7 @@
+* This code sets up all the local macro variables for the mortality rates
+* calls the actual simulate code with the requested input macros
+* and summarizes simulation findings.
+
 set more off
 clear all
 
